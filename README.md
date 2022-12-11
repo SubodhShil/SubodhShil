@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/sub0dh_chandra_shil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sub0dh_chandra_shil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Subodh_Chandra_Shil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subodh chandra shil" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sub0dh_chandra_shil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sub0dh_chandra_shil" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Subodh_Chandra_Shil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subodh chandra shil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
