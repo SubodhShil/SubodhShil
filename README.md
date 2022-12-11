@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=ecf05e475v7bpwlg450syelwan7jcz8i3vcmni5iitjk4mg7&rid=giphy.gif&ct=g">
 </p>
 <p>
-- 🔭 I’m currently working on **Logical Algorithms and Blockchain**
+- 🔭 I’m currently working on <b>Logical Algorithms and Blockchain</b>
 
 - 🌱 I’m currently learning **React.js**
 
