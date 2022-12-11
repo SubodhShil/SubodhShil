@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subodh Chandra Shil</h1>
+<h1 align="center">Hi 👋, I'm 𝗦𝗨𝗕𝗢𝗗𝗛 𝗖𝗛𝗔𝗡𝗗𝗥𝗔 𝗦𝗛𝗜𝗟</h1>
 <h3 align="center">A nerd get into computer science</h3>
 <br>
 <p align="center">
