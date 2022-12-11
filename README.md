@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 𝗦𝗨𝗕𝗢𝗗𝗛 𝗖𝗛𝗔𝗡𝗗𝗥𝗔 𝗦𝗛𝗜𝗟</h1>
-<h3 align="center">𝙰 𝚗𝚎𝚛𝚍 𝚜𝚝𝚞𝚍𝚒𝚎𝚜 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎</h3>
+<h3 align="center">❝𝐀 𝐧𝐞𝐫𝐝 𝐬𝐭𝐮𝐝𝐢𝐞𝐬 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞❞</h3>
 <br>
 <p align="center">
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=ecf05e475v7bpwlg450syelwan7jcz8i3vcmni5iitjk4mg7&rid=giphy.gif&ct=g">
