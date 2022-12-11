@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm 𝗦𝗨𝗕𝗢𝗗𝗛 𝗖𝗛𝗔𝗡𝗗𝗥𝗔 𝗦𝗛𝗜𝗟</h1>
 <h3 align="center">❝𝐀 𝐧𝐞𝐫𝐝 𝐬𝐭𝐮𝐝𝐢𝐞𝐬 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞❞</h3>
 <br>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.gif" alt="🎊" width="100" height="100">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.gif" alt="💥" width="32" height="32">
+</picture>
+<br>
 <p align="center">
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=ecf05e475v7bpwlg450syelwan7jcz8i3vcmni5iitjk4mg7&rid=giphy.gif&ct=g">
 </p>
@@ -36,3 +49,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subodh-chandra-shil" alt="subodh-chandra-shil" /></a> </p>
 </div>
+
