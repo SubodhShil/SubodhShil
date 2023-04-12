@@ -20,13 +20,11 @@
 <p>
 - 🔭 I’m currently working on <b>Logical Algorithms and Blockchain</b>
 
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **Blockchain**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Subodh-Chandra-Shil](https://github.com/Subodh-Chandra-Shil)
 
-- 💬 Ask me about **C++, DSA and Blockchain**
+- 💬 Ask me about **Data Structure and Algorithm, Problem Solving and Software Development**
 
 </p>
 
