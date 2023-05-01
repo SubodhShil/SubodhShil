@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 𝗦𝗨𝗕𝗢𝗗𝗛 𝗖𝗛𝗔𝗡𝗗𝗥𝗔 𝗦𝗛𝗜𝗟</h1>
-<h3 align="center">❝𝐀 𝐧𝐞𝐫𝐝 𝐬𝐭𝐮𝐝𝐢𝐞𝐬 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞❞</h3>
+<h3 align="center">❝You are what you believe in. You become that which you believe you can become ― Bhagavad Gita❞</h3>
 <br>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
