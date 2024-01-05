@@ -20,7 +20,7 @@
 <p>
 - 🔭 I’m currently working on <b>DSA and Web Development</b>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Subodh-Chandra-Shil](https://github.com/Subodh-Chandra-Shil)
 
