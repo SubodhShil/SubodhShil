@@ -18,13 +18,13 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=ecf05e475v7bpwlg450syelwan7jcz8i3vcmni5iitjk4mg7&rid=giphy.gif&ct=g">
 </p>
 <p>
-- 🔭 I’m currently working on <b>DSA and CP</b>
+- 🔭 I’m currently working on <b>DSA and AI-based full-stack development</b>
 
 - 🌱 I’m currently learning **🫡🫡**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Subodh-Chandra-Shil](https://github.com/Subodh-Chandra-Shil)
 
-- 💬 Ask me about **Data Structure and Algorithm, Problem Solving and Software Development**
+- 💬 Ask me about **Data Structure and Algorithm, Problem Solving, AI and Software Development**
 
 </p>
 
