@@ -20,7 +20,7 @@
 <p>
 - 🔭 I’m currently working on <b>DSA and AI-based full-stack development</b>
 
-- 🌱 I’m currently learning **🫡🫡**
+- 🌱 I’m currently learning **Core CS Fundamentals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Subodh-Chandra-Shil](https://github.com/Subodh-Chandra-Shil)
 
