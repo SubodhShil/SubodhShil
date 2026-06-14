@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <i>❝ You are what you believe in. You become that which you believe you can become. ❞</i>
+  <i> <h1> <b>❝ You are what you believe in. You become that which you believe you can become. ❞ </b></h1></i>
   <br/>
   <b>— Bhagavad Gita</b>
 </div>
